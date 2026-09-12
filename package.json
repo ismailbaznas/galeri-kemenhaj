@@ -1,0 +1,24 @@
+{
+  "name": "galeri-kemenhaj-bovendigoel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Galeri Visual & Dokumentasi Kegiatan Resmi Kantor Kementerian Haji dan Umrah Kabupaten Boven Digoel",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "next": "16.3.4",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.2"
+  }
+}
